@@ -1,2 +1,1 @@
-cd semaine1-linux
-code .
+
